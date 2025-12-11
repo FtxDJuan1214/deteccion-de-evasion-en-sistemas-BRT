@@ -1,0 +1,20 @@
+=================================================================
+ RESULTADOS: CONFIG_30
+=================================================================
+Videos analizados           : 1500
+Evasiones reales totales    : 1832
+Evasiones detectadas        : 1547
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 1434
+FP (falsos positivos)       : 113
+FN (falsos negativos)       : 398
+TN (verdaderos negativos)   : 450
+-----------------------------------------------------------------
+Precision                   : 0.9270 → 92.70%
+Recall                      : 0.7828 → 78.28%
+F1-Score                    : 0.8488 → 84.88%
+Accuracy                    : 0.7866 → 78.66%
+MAE (Error Absoluto Medio)  : 0.341
+% Conteo exacto             : 74.87%
+% Error ≤1 por video        : 94.33%
+=================================================================

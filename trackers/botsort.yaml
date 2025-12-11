@@ -1,0 +1,40 @@
+# ============================
+# Configuración personalizada BOTSort - robusta y estable
+# ============================
+
+tracker_type: botsort
+
+# --- Modelo de ReID ---
+with_reid: True
+model: auto                   # Detecta automáticamente el modelo compatible
+reid_model: osnet_x0_25_msmt17.pt  # Modelo ligero pero eficaz
+fast_reid_config: projects/fast_reid/configs/Market1501/bagtricks_R50.yml
+fast_reid_weights: osnet_x0_25_msmt17.pt
+
+# --- Umbrales de detección ---
+track_high_thresh: 0.45        # Confianza mínima para mantener un track activo
+track_low_thresh: 0.1          # Detecciones más débiles se permiten temporalmente
+new_track_thresh: 0.55         # Confianza mínima para iniciar un nuevo track
+
+# --- Asociación ---
+match_thresh: 0.8              # Umbral de similitud general
+proximity_thresh: 0.6          # Distancia espacial para asociación (más alto = más permisivo)
+appearance_thresh: 0.3         # Peso de la similitud visual (BOTSort usa ReID)
+
+# --- Persistencia (manejo de pérdida de ID) ---
+track_buffer: 180              # Cuadros que se mantiene un ID antes de descartarlo
+max_time_lost: 180             # Igual que track_buffer, para consistencia
+
+# --- Corrección de movimiento (opcional) ---
+gmc_method: sparseOptFlow      # Método recomendado para movimiento suave
+# Alternativas: 'orb', 'none'
+
+# --- Otros parámetros ---
+fuse_score: True               # Combina score de detección + ReID
+mot20: False                   # Si usas videos con mucha densidad de personas, poner True
+enable_camera_motion_compensation: True  # Mejora seguimiento si la cámara se mueve
+verbose: False                 # Actívalo en debug
+
+# --- ReID tuning (avanzado, opcional) ---
+max_reid_distance: 0.4         # Máxima distancia ReID para considerar mismo ID
+min_box_area: 10               # Filtra detecciones muy pequeñas

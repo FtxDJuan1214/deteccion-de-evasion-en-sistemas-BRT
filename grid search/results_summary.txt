@@ -1,0 +1,957 @@
+RESULTADOS: CONFIG_1
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 341
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 286
+FP (falsos positivos)       : 55
+FN (falsos negativos)       : 65
+TN (verdaderos negativos)   : 82
+-----------------------------------------------------------------
+Precision                   : 0.8387 → 83.87%
+Recall                      : 0.8148 → 81.48%
+F1-Score                    : 0.8266 → 82.66%
+Accuracy                    : 0.7541 → 75.41%
+MAE (Error Absoluto Medio)  : 0.400
+% Conteo exacto             : 67.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_1\confusion_matrix_config_1.png
+=================================================================
+Analizando: results_config_2.csv
+
+=================================================================
+ RESULTADOS: CONFIG_2
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 324
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 281
+FP (falsos positivos)       : 43
+FN (falsos negativos)       : 70
+TN (verdaderos negativos)   : 84
+-----------------------------------------------------------------
+Precision                   : 0.8673 → 86.73%
+Recall                      : 0.8006 → 80.06%
+F1-Score                    : 0.8326 → 83.26%
+Accuracy                    : 0.7636 → 76.36%
+MAE (Error Absoluto Medio)  : 0.377
+% Conteo exacto             : 69.33%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_2\confusion_matrix_config_2.png
+=================================================================
+Analizando: results_config_3.csv
+
+=================================================================
+ RESULTADOS: CONFIG_3
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 348
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 292
+FP (falsos positivos)       : 56
+FN (falsos negativos)       : 59
+TN (verdaderos negativos)   : 80
+-----------------------------------------------------------------
+Precision                   : 0.8391 → 83.91%
+Recall                      : 0.8319 → 83.19%
+F1-Score                    : 0.8355 → 83.55%
+Accuracy                    : 0.7639 → 76.39%
+MAE (Error Absoluto Medio)  : 0.383
+% Conteo exacto             : 68.33%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_3\confusion_matrix_config_3.png
+=================================================================
+Analizando: results_config_4.csv
+
+=================================================================
+ RESULTADOS: CONFIG_4
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 331
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 285
+FP (falsos positivos)       : 46
+FN (falsos negativos)       : 66
+TN (verdaderos negativos)   : 83
+-----------------------------------------------------------------
+Precision                   : 0.8610 → 86.10%
+Recall                      : 0.8120 → 81.20%
+F1-Score                    : 0.8358 → 83.58%
+Accuracy                    : 0.7667 → 76.67%
+MAE (Error Absoluto Medio)  : 0.373
+% Conteo exacto             : 70.00%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_4\confusion_matrix_config_4.png
+=================================================================
+Analizando: results_config_5.csv
+
+=================================================================
+ RESULTADOS: CONFIG_5
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 378
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 284
+FP (falsos positivos)       : 94
+FN (falsos negativos)       : 67
+TN (verdaderos negativos)   : 74
+-----------------------------------------------------------------
+Precision                   : 0.7513 → 75.13%
+Recall                      : 0.8091 → 80.91%
+F1-Score                    : 0.7791 → 77.91%
+Accuracy                    : 0.6898 → 68.98%
+MAE (Error Absoluto Medio)  : 0.537
+% Conteo exacto             : 60.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_5\confusion_matrix_config_5.png
+=================================================================
+Analizando: results_config_6.csv
+
+=================================================================
+ RESULTADOS: CONFIG_6
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 336
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 271
+FP (falsos positivos)       : 65
+FN (falsos negativos)       : 80
+TN (verdaderos negativos)   : 77
+-----------------------------------------------------------------
+Precision                   : 0.8065 → 80.65%
+Recall                      : 0.7721 → 77.21%
+F1-Score                    : 0.7889 → 78.89%
+Accuracy                    : 0.7059 → 70.59%
+MAE (Error Absoluto Medio)  : 0.483
+% Conteo exacto             : 61.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_6\confusion_matrix_config_6.png
+=================================================================
+Analizando: results_config_7.csv
+
+=================================================================
+ RESULTADOS: CONFIG_7
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 402
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 295
+FP (falsos positivos)       : 107
+FN (falsos negativos)       : 56
+TN (verdaderos negativos)   : 76
+-----------------------------------------------------------------
+Precision                   : 0.7338 → 73.38%
+Recall                      : 0.8405 → 84.05%
+F1-Score                    : 0.7835 → 78.35%
+Accuracy                    : 0.6948 → 69.48%
+MAE (Error Absoluto Medio)  : 0.543
+% Conteo exacto             : 61.33%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_7\confusion_matrix_config_7.png
+=================================================================
+Analizando: results_config_8.csv
+
+=================================================================
+ RESULTADOS: CONFIG_8
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 363
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 285
+FP (falsos positivos)       : 78
+FN (falsos negativos)       : 66
+TN (verdaderos negativos)   : 76
+-----------------------------------------------------------------
+Precision                   : 0.7851 → 78.51%
+Recall                      : 0.8120 → 81.20%
+F1-Score                    : 0.7983 → 79.83%
+Accuracy                    : 0.7149 → 71.49%
+MAE (Error Absoluto Medio)  : 0.480
+% Conteo exacto             : 61.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_8\confusion_matrix_config_8.png
+=================================================================
+Analizando: results_config_9.csv
+
+=================================================================
+ RESULTADOS: CONFIG_9
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 386
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 293
+FP (falsos positivos)       : 93
+FN (falsos negativos)       : 58
+TN (verdaderos negativos)   : 72
+-----------------------------------------------------------------
+Precision                   : 0.7591 → 75.91%
+Recall                      : 0.8348 → 83.48%
+F1-Score                    : 0.7951 → 79.51%
+Accuracy                    : 0.7074 → 70.74%
+MAE (Error Absoluto Medio)  : 0.503
+% Conteo exacto             : 61.33%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_9\confusion_matrix_config_9.png
+=================================================================
+Analizando: results_config_10.csv
+
+=================================================================
+ RESULTADOS: CONFIG_10
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 365
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 291
+FP (falsos positivos)       : 74
+FN (falsos negativos)       : 60
+TN (verdaderos negativos)   : 74
+-----------------------------------------------------------------
+Precision                   : 0.7973 → 79.73%
+Recall                      : 0.8291 → 82.91%
+F1-Score                    : 0.8128 → 81.28%
+Accuracy                    : 0.7315 → 73.15%
+MAE (Error Absoluto Medio)  : 0.447
+% Conteo exacto             : 62.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_10\confusion_matrix_config_10.png
+=================================================================
+Analizando: results_config_11.csv
+
+=================================================================
+ RESULTADOS: CONFIG_11
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 411
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 299
+FP (falsos positivos)       : 112
+FN (falsos negativos)       : 52
+TN (verdaderos negativos)   : 73
+-----------------------------------------------------------------
+Precision                   : 0.7275 → 72.75%
+Recall                      : 0.8519 → 85.19%
+F1-Score                    : 0.7848 → 78.48%
+Accuracy                    : 0.6940 → 69.40%
+MAE (Error Absoluto Medio)  : 0.547
+% Conteo exacto             : 59.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_11\confusion_matrix_config_11.png
+=================================================================
+Analizando: results_config_12.csv
+
+=================================================================
+ RESULTADOS: CONFIG_12
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 379
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 297
+FP (falsos positivos)       : 82
+FN (falsos negativos)       : 54
+TN (verdaderos negativos)   : 76
+-----------------------------------------------------------------
+Precision                   : 0.7836 → 78.36%
+Recall                      : 0.8462 → 84.62%
+F1-Score                    : 0.8137 → 81.37%
+Accuracy                    : 0.7328 → 73.28%
+MAE (Error Absoluto Medio)  : 0.453
+% Conteo exacto             : 63.33%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_12\confusion_matrix_config_12.png
+=================================================================
+Analizando: results_config_13.csv
+
+=================================================================
+ RESULTADOS: CONFIG_13
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 357
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 283
+FP (falsos positivos)       : 74
+FN (falsos negativos)       : 68
+TN (verdaderos negativos)   : 78
+-----------------------------------------------------------------
+Precision                   : 0.7927 → 79.27%
+Recall                      : 0.8063 → 80.63%
+F1-Score                    : 0.7994 → 79.94%
+Accuracy                    : 0.7177 → 71.77%
+MAE (Error Absoluto Medio)  : 0.473
+% Conteo exacto             : 61.33%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_13\confusion_matrix_config_13.png
+=================================================================
+Analizando: results_config_14.csv
+
+=================================================================
+ RESULTADOS: CONFIG_14
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 332
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 275
+FP (falsos positivos)       : 57
+FN (falsos negativos)       : 76
+TN (verdaderos negativos)   : 83
+-----------------------------------------------------------------
+Precision                   : 0.8283 → 82.83%
+Recall                      : 0.7835 → 78.35%
+F1-Score                    : 0.8053 → 80.53%
+Accuracy                    : 0.7291 → 72.91%
+MAE (Error Absoluto Medio)  : 0.443
+% Conteo exacto             : 65.00%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_14\confusion_matrix_config_14.png
+=================================================================
+Analizando: results_config_15.csv
+
+=================================================================
+ RESULTADOS: CONFIG_15
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 296
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 274
+FP (falsos positivos)       : 22
+FN (falsos negativos)       : 77
+TN (verdaderos negativos)   : 88
+-----------------------------------------------------------------
+Precision                   : 0.9257 → 92.57%
+Recall                      : 0.7806 → 78.06%
+F1-Score                    : 0.8470 → 84.70%
+Accuracy                    : 0.7852 → 78.52%
+MAE (Error Absoluto Medio)  : 0.330
+% Conteo exacto             : 73.00%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_15\confusion_matrix_config_15.png
+=================================================================
+Analizando: results_config_16.csv
+
+=================================================================
+ RESULTADOS: CONFIG_16
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 251
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 241
+FP (falsos positivos)       : 10
+FN (falsos negativos)       : 110
+TN (verdaderos negativos)   : 93
+-----------------------------------------------------------------
+Precision                   : 0.9602 → 96.02%
+Recall                      : 0.6866 → 68.66%
+F1-Score                    : 0.8007 → 80.07%
+Accuracy                    : 0.7357 → 73.57%
+MAE (Error Absoluto Medio)  : 0.400
+% Conteo exacto             : 71.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_16\confusion_matrix_config_16.png
+=================================================================
+Analizando: results_config_17.csv
+
+=================================================================
+ RESULTADOS: CONFIG_17
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 247
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 225
+FP (falsos positivos)       : 22
+FN (falsos negativos)       : 126
+TN (verdaderos negativos)   : 88
+-----------------------------------------------------------------
+Precision                   : 0.9109 → 91.09%
+Recall                      : 0.6410 → 64.10%
+F1-Score                    : 0.7525 → 75.25%
+Accuracy                    : 0.6790 → 67.90%
+MAE (Error Absoluto Medio)  : 0.493
+% Conteo exacto             : 68.00%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_17\confusion_matrix_config_17.png
+=================================================================
+Analizando: results_config_18.csv
+
+=================================================================
+ RESULTADOS: CONFIG_18
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 300
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 260
+FP (falsos positivos)       : 40
+FN (falsos negativos)       : 91
+TN (verdaderos negativos)   : 84
+-----------------------------------------------------------------
+Precision                   : 0.8667 → 86.67%
+Recall                      : 0.7407 → 74.07%
+F1-Score                    : 0.7988 → 79.88%
+Accuracy                    : 0.7242 → 72.42%
+MAE (Error Absoluto Medio)  : 0.437
+% Conteo exacto             : 66.33%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_18\confusion_matrix_config_18.png
+=================================================================
+Analizando: results_config_19.csv
+
+=================================================================
+ RESULTADOS: CONFIG_19
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 375
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 289
+FP (falsos positivos)       : 86
+FN (falsos negativos)       : 62
+TN (verdaderos negativos)   : 81
+-----------------------------------------------------------------
+Precision                   : 0.7707 → 77.07%
+Recall                      : 0.8234 → 82.34%
+F1-Score                    : 0.7961 → 79.61%
+Accuracy                    : 0.7143 → 71.43%
+MAE (Error Absoluto Medio)  : 0.493
+% Conteo exacto             : 67.00%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_19\confusion_matrix_config_19.png
+=================================================================
+Analizando: results_config_20.csv
+
+=================================================================
+ RESULTADOS: CONFIG_20
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 367
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 290
+FP (falsos positivos)       : 77
+FN (falsos negativos)       : 61
+TN (verdaderos negativos)   : 81
+-----------------------------------------------------------------
+Precision                   : 0.7902 → 79.02%
+Recall                      : 0.8262 → 82.62%
+F1-Score                    : 0.8078 → 80.78%
+Accuracy                    : 0.7289 → 72.89%
+MAE (Error Absoluto Medio)  : 0.460
+% Conteo exacto             : 68.00%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_20\confusion_matrix_config_20.png
+=================================================================
+Analizando: results_config_21.csv
+
+=================================================================
+ RESULTADOS: CONFIG_21
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 280
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 257
+FP (falsos positivos)       : 23
+FN (falsos negativos)       : 94
+TN (verdaderos negativos)   : 88
+-----------------------------------------------------------------
+Precision                   : 0.9179 → 91.79%
+Recall                      : 0.7322 → 73.22%
+F1-Score                    : 0.8146 → 81.46%
+Accuracy                    : 0.7468 → 74.68%
+MAE (Error Absoluto Medio)  : 0.390
+% Conteo exacto             : 70.33%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_21\confusion_matrix_config_21.png
+=================================================================
+Analizando: results_config_22.csv
+
+=================================================================
+ RESULTADOS: CONFIG_22
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 264
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 250
+FP (falsos positivos)       : 14
+FN (falsos negativos)       : 101
+TN (verdaderos negativos)   : 88
+-----------------------------------------------------------------
+Precision                   : 0.9470 → 94.70%
+Recall                      : 0.7123 → 71.23%
+F1-Score                    : 0.8130 → 81.30%
+Accuracy                    : 0.7461 → 74.61%
+MAE (Error Absoluto Medio)  : 0.383
+% Conteo exacto             : 71.33%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_22\confusion_matrix_config_22.png
+=================================================================
+Analizando: results_config_23.csv
+
+=================================================================
+ RESULTADOS: CONFIG_23
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 351
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 271
+FP (falsos positivos)       : 80
+FN (falsos negativos)       : 80
+TN (verdaderos negativos)   : 76
+-----------------------------------------------------------------
+Precision                   : 0.7721 → 77.21%
+Recall                      : 0.7721 → 77.21%
+F1-Score                    : 0.7721 → 77.21%
+Accuracy                    : 0.6844 → 68.44%
+MAE (Error Absoluto Medio)  : 0.533
+% Conteo exacto             : 61.00%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_23\confusion_matrix_config_23.png
+=================================================================
+Analizando: results_config_24.csv
+
+=================================================================
+ RESULTADOS: CONFIG_24
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 339
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 268
+FP (falsos positivos)       : 71
+FN (falsos negativos)       : 83
+TN (verdaderos negativos)   : 79
+-----------------------------------------------------------------
+Precision                   : 0.7906 → 79.06%
+Recall                      : 0.7635 → 76.35%
+F1-Score                    : 0.7768 → 77.68%
+Accuracy                    : 0.6926 → 69.26%
+MAE (Error Absoluto Medio)  : 0.513
+% Conteo exacto             : 62.00%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_24\confusion_matrix_config_24.png
+=================================================================
+Analizando: results_config_25.csv
+
+=================================================================
+ RESULTADOS: CONFIG_25
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 359
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 292
+FP (falsos positivos)       : 67
+FN (falsos negativos)       : 59
+TN (verdaderos negativos)   : 79
+-----------------------------------------------------------------
+Precision                   : 0.8134 → 81.34%
+Recall                      : 0.8319 → 83.19%
+F1-Score                    : 0.8225 → 82.25%
+Accuracy                    : 0.7465 → 74.65%
+MAE (Error Absoluto Medio)  : 0.420
+% Conteo exacto             : 67.00%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_25\confusion_matrix_config_25.png
+=================================================================
+Analizando: results_config_26.csv
+
+=================================================================
+ RESULTADOS: CONFIG_26
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 326
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 283
+FP (falsos positivos)       : 43
+FN (falsos negativos)       : 68
+TN (verdaderos negativos)   : 82
+-----------------------------------------------------------------
+Precision                   : 0.8681 → 86.81%
+Recall                      : 0.8063 → 80.63%
+F1-Score                    : 0.8360 → 83.60%
+Accuracy                    : 0.7668 → 76.68%
+MAE (Error Absoluto Medio)  : 0.370
+% Conteo exacto             : 69.33%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_26\confusion_matrix_config_26.png
+=================================================================
+Analizando: results_config_27.csv
+
+=================================================================
+ RESULTADOS: CONFIG_27
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 278
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 247
+FP (falsos positivos)       : 31
+FN (falsos negativos)       : 104
+TN (verdaderos negativos)   : 82
+-----------------------------------------------------------------
+Precision                   : 0.8885 → 88.85%
+Recall                      : 0.7037 → 70.37%
+F1-Score                    : 0.7854 → 78.54%
+Accuracy                    : 0.7091 → 70.91%
+MAE (Error Absoluto Medio)  : 0.450
+% Conteo exacto             : 65.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_27\confusion_matrix_config_27.png
+=================================================================
+Analizando: results_config_28.csv
+
+=================================================================
+ RESULTADOS: CONFIG_28
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 271
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 246
+FP (falsos positivos)       : 25
+FN (falsos negativos)       : 105
+TN (verdaderos negativos)   : 84
+-----------------------------------------------------------------
+Precision                   : 0.9077 → 90.77%
+Recall                      : 0.7009 → 70.09%
+F1-Score                    : 0.7910 → 79.10%
+Accuracy                    : 0.7174 → 71.74%
+MAE (Error Absoluto Medio)  : 0.433
+% Conteo exacto             : 67.00%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_28\confusion_matrix_config_28.png
+=================================================================
+Analizando: results_config_29.csv
+
+=================================================================
+ RESULTADOS: CONFIG_29
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 294
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 272
+FP (falsos positivos)       : 22
+FN (falsos negativos)       : 79
+TN (verdaderos negativos)   : 91
+-----------------------------------------------------------------
+Precision                   : 0.9252 → 92.52%
+Recall                      : 0.7749 → 77.49%
+F1-Score                    : 0.8434 → 84.34%
+Accuracy                    : 0.7823 → 78.23%
+MAE (Error Absoluto Medio)  : 0.337
+% Conteo exacto             : 73.00%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_29\confusion_matrix_config_29.png
+=================================================================
+Analizando: results_config_30.csv
+
+=================================================================
+ RESULTADOS: CONFIG_30
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 291
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 273
+FP (falsos positivos)       : 18
+FN (falsos negativos)       : 78
+TN (verdaderos negativos)   : 90
+-----------------------------------------------------------------
+Precision                   : 0.9381 → 93.81%
+Recall                      : 0.7778 → 77.78%
+F1-Score                    : 0.8505 → 85.05%
+Accuracy                    : 0.7908 → 79.08%
+MAE (Error Absoluto Medio)  : 0.320
+% Conteo exacto             : 75.33%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_30\confusion_matrix_config_30.png
+=================================================================
+Analizando: results_config_31.csv
+
+=================================================================
+ RESULTADOS: CONFIG_31
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 317
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 278
+FP (falsos positivos)       : 39
+FN (falsos negativos)       : 73
+TN (verdaderos negativos)   : 85
+-----------------------------------------------------------------
+Precision                   : 0.8770 → 87.70%
+Recall                      : 0.7920 → 79.20%
+F1-Score                    : 0.8323 → 83.23%
+Accuracy                    : 0.7642 → 76.42%
+MAE (Error Absoluto Medio)  : 0.373
+% Conteo exacto             : 71.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_31\confusion_matrix_config_31.png
+=================================================================
+Analizando: results_config_32.csv
+
+=================================================================
+ RESULTADOS: CONFIG_32
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 297
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 269
+FP (falsos positivos)       : 28
+FN (falsos negativos)       : 82
+TN (verdaderos negativos)   : 85
+-----------------------------------------------------------------
+Precision                   : 0.9057 → 90.57%
+Recall                      : 0.7664 → 76.64%
+F1-Score                    : 0.8302 → 83.02%
+Accuracy                    : 0.7629 → 76.29%
+MAE (Error Absoluto Medio)  : 0.367
+% Conteo exacto             : 71.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_32\confusion_matrix_config_32.png
+=================================================================
+Analizando: results_config_33.csv
+
+=================================================================
+ RESULTADOS: CONFIG_33
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 325
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 283
+FP (falsos positivos)       : 42
+FN (falsos negativos)       : 68
+TN (verdaderos negativos)   : 85
+-----------------------------------------------------------------
+Precision                   : 0.8708 → 87.08%
+Recall                      : 0.8063 → 80.63%
+F1-Score                    : 0.8373 → 83.73%
+Accuracy                    : 0.7699 → 76.99%
+MAE (Error Absoluto Medio)  : 0.367
+% Conteo exacto             : 73.00%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_33\confusion_matrix_config_33.png
+=================================================================
+Analizando: results_config_34.csv
+
+=================================================================
+ RESULTADOS: CONFIG_34
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 305
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 274
+FP (falsos positivos)       : 31
+FN (falsos negativos)       : 77
+TN (verdaderos negativos)   : 87
+-----------------------------------------------------------------
+Precision                   : 0.8984 → 89.84%
+Recall                      : 0.7806 → 78.06%
+F1-Score                    : 0.8354 → 83.54%
+Accuracy                    : 0.7697 → 76.97%
+MAE (Error Absoluto Medio)  : 0.360
+% Conteo exacto             : 72.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_34\confusion_matrix_config_34.png
+=================================================================
+Analizando: results_config_35.csv
+
+=================================================================
+ RESULTADOS: CONFIG_35
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 386
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 300
+FP (falsos positivos)       : 86
+FN (falsos negativos)       : 51
+TN (verdaderos negativos)   : 76
+-----------------------------------------------------------------
+Precision                   : 0.7772 → 77.72%
+Recall                      : 0.8547 → 85.47%
+F1-Score                    : 0.8141 → 81.41%
+Accuracy                    : 0.7329 → 73.29%
+MAE (Error Absoluto Medio)  : 0.457
+% Conteo exacto             : 68.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_35\confusion_matrix_config_35.png
+=================================================================
+Analizando: results_config_36.csv
+
+=================================================================
+ RESULTADOS: CONFIG_36
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 350
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 292
+FP (falsos positivos)       : 58
+FN (falsos negativos)       : 59
+TN (verdaderos negativos)   : 81
+-----------------------------------------------------------------
+Precision                   : 0.8343 → 83.43%
+Recall                      : 0.8319 → 83.19%
+F1-Score                    : 0.8331 → 83.31%
+Accuracy                    : 0.7612 → 76.12%
+MAE (Error Absoluto Medio)  : 0.390
+% Conteo exacto             : 70.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_36\confusion_matrix_config_36.png
+=================================================================
+Analizando: results_config_37.csv
+
+=================================================================
+ RESULTADOS: CONFIG_37
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 405
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 303
+FP (falsos positivos)       : 102
+FN (falsos negativos)       : 48
+TN (verdaderos negativos)   : 77
+-----------------------------------------------------------------
+Precision                   : 0.7481 → 74.81%
+Recall                      : 0.8632 → 86.32%
+F1-Score                    : 0.8016 → 80.16%
+Accuracy                    : 0.7170 → 71.70%
+MAE (Error Absoluto Medio)  : 0.500
+% Conteo exacto             : 66.67%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_37\confusion_matrix_config_37.png
+=================================================================
+Analizando: results_config_38.csv
+
+=================================================================
+ RESULTADOS: CONFIG_38
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 371
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 299
+FP (falsos positivos)       : 72
+FN (falsos negativos)       : 52
+TN (verdaderos negativos)   : 77
+-----------------------------------------------------------------
+Precision                   : 0.8059 → 80.59%
+Recall                      : 0.8519 → 85.19%
+F1-Score                    : 0.8283 → 82.83%
+Accuracy                    : 0.7520 → 75.20%
+MAE (Error Absoluto Medio)  : 0.413
+% Conteo exacto             : 70.00%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_38\confusion_matrix_config_38.png
+=================================================================
+Analizando: results_config_39.csv
+
+=================================================================
+ RESULTADOS: CONFIG_39
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 250
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 236
+FP (falsos positivos)       : 14
+FN (falsos negativos)       : 115
+TN (verdaderos negativos)   : 91
+-----------------------------------------------------------------
+Precision                   : 0.9440 → 94.40%
+Recall                      : 0.6724 → 67.24%
+F1-Score                    : 0.7854 → 78.54%
+Accuracy                    : 0.7171 → 71.71%
+MAE (Error Absoluto Medio)  : 0.430
+% Conteo exacto             : 70.33%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_39\confusion_matrix_config_39.png
+=================================================================
+Analizando: results_config_40.csv
+
+=================================================================
+ RESULTADOS: CONFIG_40
+=================================================================
+Videos analizados           : 300
+Evasiones reales totales    : 351
+Evasiones detectadas        : 203
+-----------------------------------------------------------------
+TP (verdaderos positivos)   : 196
+FP (falsos positivos)       : 7
+FN (falsos negativos)       : 155
+TN (verdaderos negativos)   : 95
+-----------------------------------------------------------------
+Precision                   : 0.9655 → 96.55%
+Recall                      : 0.5584 → 55.84%
+F1-Score                    : 0.7076 → 70.76%
+Accuracy                    : 0.6424 → 64.24%
+MAE (Error Absoluto Medio)  : 0.540
+% Conteo exacto             : 65.33%
+=================================================================
+Matriz de confusión guardada como imagen:
+→ config_40\confusion_matrix_config_40.png
+=================================================================

@@ -1,0 +1,2 @@
+conf_id,person_model,station_model,person_conf,person_iou,imgsz,tracker,PROXIMITY_THRESHOLD,MIN_TIME_OUTSIDE,accuracy,precision,recall,f1_score,accuracy_count,precision_count_macro,recall_count_macro,f1_count_macro,mean_absolute_error_count,mean_squared_error_count
+config_30,yolo_models/yolo11m.pt,station_models/stationv1.pt,0.35,0.4,1280,trackers/botsort.yaml,50,1,0.882,0.9458288190682557,0.873,0.9079563182527302,0.7486666666666667,0.3143180979799799,0.2765336274300083,0.290920739876877,0.3406666666666667,0.6313333333333333

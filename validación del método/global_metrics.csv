@@ -1,0 +1,2 @@
+config,n_videos,total_real,total_pred,TP,FP,FN,TN,precision,recall,f1,accuracy,mae,pct_exact,pct_error_le1,img_path
+30,1500,1832,1547,1434,113,398,450,0.9269553975436329,0.7827510917030568,0.848771825984019,0.7866388308977036,0.3406666666666667,74.86666666666667,94.33333333333334,config_30\confusion_matrix_config_30.png

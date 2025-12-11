@@ -1,0 +1,27 @@
+# Configuración personalizada BOTSort - estable y compatible
+tracker_type: bytetrack
+
+# --- Modelo de ReID ---
+model: auto                  # <--- ⚠️ obligatorio en versiones recientes
+with_reid: True
+reid_model: osnet_x0_25_msmt17.pt
+
+# --- Umbrales de detección ---
+track_high_thresh: 0.4
+track_low_thresh: 0.05
+new_track_thresh: 0.5
+
+# --- Asociación ---
+match_thresh: 0.8
+proximity_thresh: 0.6
+appearance_thresh: 0.25
+
+# --- Persistencia (control de pérdida de ID) ---
+track_buffer: 180
+max_time_lost: 180
+
+# --- Método de corrección de movimiento ---
+gmc_method: sparseOptFlow
+
+# --- Otros ---
+fuse_score: True
