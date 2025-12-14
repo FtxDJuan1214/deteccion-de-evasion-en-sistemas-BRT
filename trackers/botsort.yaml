@@ -1,7 +1,3 @@
-# ============================
-# Configuración personalizada BOTSort - robusta y estable
-# ============================
-
 tracker_type: botsort
 
 # --- Modelo de ReID ---

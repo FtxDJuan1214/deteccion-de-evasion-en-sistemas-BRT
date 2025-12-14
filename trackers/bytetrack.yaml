@@ -1,8 +1,7 @@
-# Configuración personalizada BOTSort - estable y compatible
 tracker_type: bytetrack
 
 # --- Modelo de ReID ---
-model: auto                  # <--- ⚠️ obligatorio en versiones recientes
+model: auto
 with_reid: True
 reid_model: osnet_x0_25_msmt17.pt
 
