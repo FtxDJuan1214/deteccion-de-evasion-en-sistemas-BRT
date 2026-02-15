@@ -115,7 +115,7 @@ Con estos resultados se concluyó que:
 
 A continuación se muestran ejemplos de videos procesados por el método, donde se visualizan las personas detectadas, sus trayectorias y los eventos de evasión identificados.
 
-<details>
+<details open>
   
   <summary><strong>Ejemplos complejos de evasión 📽️</strong></summary>
   
@@ -127,7 +127,7 @@ A continuación se muestran ejemplos de videos procesados por el método, donde 
 
 </details>
 
-<details>
+<details open>
   
   <summary><strong>Ejemplos regulares de evasión 📽️</strong></summary>
   
@@ -140,7 +140,7 @@ A continuación se muestran ejemplos de videos procesados por el método, donde 
 </details>
 
 
-<details>
+<details open>
   
   <summary><strong>Ejemplos de no evasión 📽️</strong></summary>
   
@@ -155,7 +155,7 @@ A continuación se muestran ejemplos de videos procesados por el método, donde 
 </details>
 
 
-<details>
+<details open>
   
   <summary><strong>Ejemplos de casos mixtos 📽️</strong></summary>
   
