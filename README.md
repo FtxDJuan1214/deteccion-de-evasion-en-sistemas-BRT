@@ -199,10 +199,10 @@ Maestría en Ingeniería – Ingeniería de Sistemas y Computación
 
 Universidad Nacional de Colombia
 
-2025
+2026
 
 ---
 
 ## 📄 Licencia
 
-Este proyecto se comparte para uso académico y de investigación. Revisa el archivo [`LICENSE`](https://github.com/FtxDJuan1214/deteccion-de-evasion-en-sistemas-BRT/blob/main/LICENSE) para más detalles.
+Este proyecto se comparte para uso académico y de investigación.
