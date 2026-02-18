@@ -199,6 +199,8 @@ Maestría en Ingeniería – Ingeniería de Sistemas y Computación
 
 Universidad Nacional de Colombia
 
+<a href="mailto:jhernandezort@unal.edu.co">jhernandezort@unal.edu.co</a>
+
 2026
 
 ---
